@@ -1,0 +1,34 @@
+git init 
+This creates a loacal depositry
+.git in created 
+View - show -Hinden items
+if we delete .git local depo is deleted
+
+git status
+
+git add . = to add all
+
+git add ./Bal.java
+
+git rm cached ./Bal.java
+
+git config --global user.name Ullas
+"C:\Users\ullas.b\.gitconfig" got created
+
+git config --global user.email ullasb@gmail.com
+open with notepad the email and user is created in gitconfig
+
+git commit -m "Blank Bal.java is added" Bal.java
+
+git log = shows the email address and data
+
+git config --local user.name localuser = now user is created in local compository
+
+git commit -m "PresentationLayer.java file and BAL.java file are added" = if we didn't mention file name everything is commited
+
+git log --oneline = it is a pretty way to show git log
+
+
+
+
+
